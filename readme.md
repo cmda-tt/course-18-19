@@ -8,6 +8,7 @@
 *   [Description](#description)
 *   [Communication](#communication)
 *   [Goals](#goals)
+*   [Grade](#grade)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -92,6 +93,15 @@ In practice you’ll learn to:
     use data joins
 11. <a name="subgoal-11"></a>
     apply motion
+
+## Grade
+
+| Task         |   Weight |
+| ------------ | -------: |
+| Assessment 1 |    33.3% |
+| Assessment 2 |    33.3% |
+| Assessment 3 |    33.3% |
+| **Total**    | **100%** |
 
 ## Semester
 
