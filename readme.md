@@ -1,5 +1,10 @@
 # Tech Track - Course 2018-2019
 
+## Table of Contents
+
+*   [Synopsis](#synopsis)
+*   [License](#license)
+
 ## Synopsis
 
 The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
