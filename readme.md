@@ -7,6 +7,7 @@
 *   [Synopsis](#synopsis)
 *   [Description](#description)
 *   [Communication](#communication)
+*   [Goals](#goals)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -55,6 +56,42 @@ If you’d like to continue with web development after this track, pick
     — General chatter and Q&A
 *   [Moodle][]
     — Schedulers
+
+## Goals
+
+#### Main goals
+
+The 2 main goals in this course are that you’re able to:
+
+*   learn how to create with libraries
+*   create interactive visualisations from external data
+
+#### Subgoals
+
+In practice you’ll learn to:
+
+1.  <a name="subgoal-1"></a>
+    read docs
+2.  <a name="subgoal-2"></a>
+    write docs
+3.  <a name="subgoal-3"></a>
+    debug code
+4.  <a name="subgoal-4"></a>
+    refactor code
+5.  <a name="subgoal-5"></a>
+    manipulate elements
+6.  <a name="subgoal-6"></a>
+    load external data
+7.  <a name="subgoal-7"></a>
+    transform data
+8.  <a name="subgoal-8"></a>
+    use svg
+9.  <a name="subgoal-9"></a>
+    use scales
+10. <a name="subgoal-10"></a>
+    use data joins
+11. <a name="subgoal-11"></a>
+    apply motion
 
 ## Semester
 
