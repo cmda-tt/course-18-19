@@ -9,6 +9,7 @@
 *   [Communication](#communication)
 *   [Goals](#goals)
 *   [Grade](#grade)
+*   [Materials](#materials)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -102,6 +103,98 @@ In practice you’ll learn to:
 | Assessment 2 |    33.3% |
 | Assessment 3 |    33.3% |
 | **Total**    | **100%** |
+
+## Materials
+
+#### Resources used in this course
+
+*   🆓 GitHub account (**required**)
+    — [Sign Up](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+*   🆓 Text Editor (**required**)
+    — [Atom](https://atom.io) or [Code](https://code.visualstudio.com)
+*   🆓 [Node](https://nodejs.org/en/) (**required**)
+*   🆓 [Eloquent JavaScript](https://eloquentjavascript.net)
+    (**optional**)
+*   🆓 [Professor Frisby’s Mostly Adequate Guide to Functional
+    Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+    (**optional**)
+*   🆓 [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+    (**optional**)
+*   🆓 King, Ritchie S.  _Visual Storytelling with D3_.  Addison-Wesley, 2015
+    (**optional**)
+*   🆓 Meeks, Elijah.  _D3.js in Action_.  O’Reilly Media, 2017 (**optional**)
+*   🆓 Navarro Castillo, Pablo.  _Mastering D3.js_.  Packt Publishing, 2014
+    (**optional**)
+*   🆓 [D3.js Essentials](https://www.lynda.com/D3-js-tutorials/Welcome/504428/549380-4.html)
+    on Lynda (**optional**)
+
+> 💁 The three books are free for HvA students through
+> [Safari Bookshelves][bookshelves].
+> Lynda is free for HvA students through our [portal][lynda-portal].
+
+#### Resources to refresh your memory
+
+*   🆓 [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+    (**course**) — Intro to JavaScript: Learn to code interactively
+*   🆓 [Re-introduction to JavaScript](https://developer.mozilla.org/Web/JavaScript/A_re-introduction_to_JavaScript)
+    (**article**) — Short re-introduction to JavaScript
+*   🆓 [JavaScript Essentials](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
+    (**course**) — Learn JavaScript on Lynda
+    (free for AUAS students through our [portal][lynda-portal])
+*   🆓 [JavaScript For Cats](http://jsforcats.com)
+    (**book**) — Intro to JavaScript for new programmers
+*   🆓 [JavaScript 30](https://javascript30.com)
+    (**course**) — 30 day vanilla JavaScript coding challenge
+*   🆓 [Command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
+    (**tutorial**) — Learn how to work at the command-line
+*   🆓 [node-handbook](https://github.com/bcomnes/node-handbook)
+    (**article**) — Learn Node the Node way
+*   🆓 [NodeSchool](https://nodeschool.io/amsterdam/)
+    (**meetup**) — Open source workshops that teach web software skills
+*   🆓 [Programming 101: Learn English](https://youtu.be/pOwnBPaW5zE)
+    (**video**)
+*   💸 [Learn Node](https://learnnode.com)
+    (**course**) — Learn to build apps with Node, Express, and more (offers
+    student discount)
+
+#### Resources used in previous courses
+
+*   Duckett, Jon.
+    _HTML & CSS_.
+    John Wiley & Sons, 2015
+    (**internetstandaarden**)
+*   [Howe, Shay.
+    _Learn to Code HTML & CSS_.
+    New Riders, 2014][html-css]
+    (**internetstandaarden**)
+*   Duckett, Jon.
+    _JavaScript & jQuery_.
+    John Wiley & Sons, 2015
+    (**inleiding programmeren**)
+*   [Simpson, Kyle.
+    _YDKJS: Up & Going_.
+    O’Reilly Media, 2015][ydkjs-1]
+    (**frontend 2**)
+*   [Simpson, Kyle.
+    _YDKJS: Scope & Closures_.
+    O’Reilly Media, 2015][ydkjs-2]
+    (**frontend 2**)
+*   [Simpson, Kyle.
+    _YDKJS: this & Object Prototypes_.
+    O’Reilly Media, 2015][ydkjs-3]
+    (**frontend 2**)
+*   [Simpson, Kyle.
+    _YDKJS: Types & Grammar_.
+    O’Reilly Media, 2015][ydkjs-4]
+    (**frontend 2**)
+*   [Simpson, Kyle.
+    _YDKJS: Async & Performance_.
+    O’Reilly Media, 2015][ydkjs-5]
+    (**frontend 2**)
+*   [Simpson, Kyle.
+    _YDKJS: ES6 & Beyond_.
+    O’Reilly Media, 2016][ydkjs-6]
+    (**frontend 2**)
 
 ## Semester
 
@@ -275,3 +368,21 @@ docs and images are [CC-BY-4.0][].
 [slack]: https://cmdinformationdesign.slack.com
 
 [moodle]: https://moodle.cmd.hva.nl/course/view.php?id=511
+
+[lynda-portal]: https://lyndaportal.ict.hva.nl
+
+[bookshelves]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
+
+[html-css]: https://learn.shayhowe.com/html-css/
+
+[ydkjs-1]: https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
+
+[ydkjs-2]: https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures
+
+[ydkjs-3]: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
+
+[ydkjs-4]: https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar
+
+[ydkjs-5]: https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance
+
+[ydkjs-6]: https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond
