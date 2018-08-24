@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
+*   [Conduct](#conduct)
 *   [License](#license)
 
 ## Synopsis
@@ -25,6 +26,16 @@ The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
 *   **Language**: Dutch instructions and English resources
 *   **Entry requirements**: N/A
 
+## Conduct
+
+This track has a [Code of Conduct][coc].
+Anyone interacting with this repository, organisation, or community is bound
+by it.
+
+Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
+van Amsterdam) are additionally bound by the [Regulation Undesirable
+Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
+
 ## License
 
 Unless stated otherwise, code is [MIT][] © [Titus Wormer][author],
@@ -37,6 +48,12 @@ docs and images are [CC-BY-4.0][].
 [cc-by-4.0]: license.md#documentation-and-images
 
 [author]: http://wooorm.com
+
+[coc]: code-of-conduct.md
+
+[ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
+
+[rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
 
 [cmda]: https://github.com/cmda
 
