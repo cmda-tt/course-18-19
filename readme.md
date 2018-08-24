@@ -6,6 +6,7 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
+*   [Communication](#communication)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -43,6 +44,17 @@ Design (fall semester), building further on knowledge acquired in
 
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
+
+## Communication
+
+*   [GitHub][home]
+    — Main source of information, assignments, important dates, and more
+*   Website
+    — Examples and assignments
+*   [Slack][]
+    — General chatter and Q&A
+*   [Moodle][]
+    — Schedulers
 
 ## Semester
 
@@ -210,3 +222,9 @@ docs and images are [CC-BY-4.0][].
 [maaike-mail]: mailto:m.van.cruchten@hva.nl?subject=tech-track:%20
 
 [minor]: https://cmda.github.io/minor-everything-web/
+
+[home]: https://github.com/cmda-tt
+
+[slack]: https://cmdinformationdesign.slack.com
+
+[moodle]: https://moodle.cmd.hva.nl/course/view.php?id=511
