@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
+*   [Description](#description)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -29,6 +30,19 @@ The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
 *   **Programme**: Communication and Multimedia Design (full time bachelor)
 *   **Language**: Dutch instructions and English resources
 *   **Entry requirements**: N/A
+
+## Description
+
+In Tech Track you’ll advance your web dev skills, learn how to learn libraries
+and frameworks, and to create interactive visualisations from external data.
+
+**Tech Track** is an elective track of three courses given in Information
+Design (fall semester), building further on knowledge acquired in
+**Internetstandaarden**, **Inleiding Programmeren**, **Frontend 1**,
+**Frontend 2**, and **Backend**.
+
+If you’d like to continue with web development after this track, pick
+[**Minor Everything Web**][minor] in the spring semester.
 
 ## Semester
 
@@ -194,3 +208,5 @@ docs and images are [CC-BY-4.0][].
 [frank-mail]: mailto:f.kloos@hva.nl?subject=tech-track:%20
 
 [maaike-mail]: mailto:m.van.cruchten@hva.nl?subject=tech-track:%20
+
+[minor]: https://cmda.github.io/minor-everything-web/
