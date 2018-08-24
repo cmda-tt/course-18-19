@@ -1,8 +1,11 @@
+<!-- lint disable no-html-->
+
 # Tech Track - Course 2018-2019
 
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
+*   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
 *   [License](#license)
@@ -26,6 +29,111 @@ The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
 *   **Programme**: Communication and Multimedia Design (full time bachelor)
 *   **Language**: Dutch instructions and English resources
 *   **Entry requirements**: N/A
+
+## Semester
+
+This track is given in the Information Design semester (fall).
+Information Design is all about data visualisation and infographics.
+In six courses and two projects students learn how to visualise data and complex
+information.
+
+After the initial three courses on data visualisation, students choose either
+a visual or technical track of another three courses.
+After both tracks, the two groups come back together and show and combine their
+skills in two projects.
+
+In the tech track students learn how to build visualisations into reality.
+Albeit technical, the track tests your creativity.
+
+<table>
+<thead>
+  <tr>
+    <th>Week</th>
+    <th colspan="4">Course</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th></th>
+    <th colspan="4" align="center">Core</th>
+  </tr>
+  <tr>
+    <th scope="row">36</th>
+    <td rowspan="2" colspan="4" align="center">Data visualisation</td>
+  </tr>
+  <tr>
+    <th scope="row">37</th>
+  </tr>
+  <tr>
+    <th scope="row">38</th>
+    <td rowspan="3" colspan="2" align="center">Research for data</td>
+    <td rowspan="3" colspan="2" align="center">Storytelling for data</td>
+  </tr>
+  <tr><th scope="row">39</th></tr>
+  <tr><th scope="row">40</th></tr>
+  <tr>
+    <th></th>
+    <th colspan="2" align="center">Tech track</th>
+    <th colspan="2" align="center">Visual track</th>
+  </tr>
+  <tr>
+    <th scope="row">41</th>
+    <td rowspan="2" colspan="2" align="center">Frontend apps</td>
+    <td rowspan="2" colspan="2" align="center">Tools for data</td>
+  </tr>
+  <tr><th scope="row">42</th></tr>
+  <tr>
+    <th scope="row">43</th>
+    <td colspan="4" align="center"><i>Autumn recess</i></td>
+  </tr>
+  <tr>
+    <th scope="row">44</th>
+    <td rowspan="2" colspan="2" align="center">Functional programming</td>
+    <td rowspan="4" align="center">Motion design</td>
+    <td rowspan="4" align="center">Explanation design</td>
+  </tr>
+  <tr><th scope="row">45</th></tr>
+  <tr>
+    <th scope="row">46</th>
+    <td rowspan="2" colspan="2" align="center">Frontend data</td>
+  </tr>
+  <tr><th scope="row">47</th></tr>
+  <tr>
+    <th scope="row">48</th>
+    <td colspan="4" align="center"><i>Course resits</i></td>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="4" align="center">Core</th>
+  </tr>
+  <tr>
+    <th scope="row">49</th>
+    <td colspan="4" align="center">Data week</td>
+  </tr>
+  <tr>
+    <th scope="row">50</th>
+    <td rowspan="2" colspan="4" align="center">Project</td>
+  </tr>
+  <tr><th scope="row">51</th></tr>
+  <tr>
+    <th scope="row">52</th>
+    <td rowspan="2" colspan="4" align="center"><i>Holiday season</i></td>
+  </tr>
+  <tr>
+    <th scope="row">1</th>
+  </tr>
+  <tr>
+    <th scope="row">2</th>
+    <td rowspan="3" colspan="4" align="center">Project</td>
+  </tr>
+  <tr><th scope="row">3</th></tr>
+  <tr><th scope="row">4</th></tr>
+  <tr>
+    <th scope="row">5</th>
+    <td colspan="4" align="center"><i>Project resits</i></td>
+  </tr>
+</tbody>
+</table>
 
 ## Programme
 
