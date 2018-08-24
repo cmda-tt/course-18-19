@@ -20,7 +20,18 @@ The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
 *   **Language**: Dutch instructions and English resources
 *   **Entry requirements**: N/A
 
+## License
+
+Unless stated otherwise, code is [MIT][] © [Titus Wormer][author],
+docs and images are [CC-BY-4.0][].
+
 <!-- Definitions -->
+
+[mit]: license.md#code
+
+[cc-by-4.0]: license.md#documentation-and-images
+
+[author]: http://wooorm.com
 
 [cmda]: https://github.com/cmda
 
