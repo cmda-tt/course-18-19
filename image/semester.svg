@@ -1,0 +1,119 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 1000 1300"
+>
+  <style>
+    :root { font-family: Roboto, -apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI, Oxygen, Ubuntu, Cantarell, Open Sans, sans-serif }
+    rect {fill: black; color: white; stroke: black }
+    text { text-anchor: middle; alignment-baseline: middle }
+    text.header { fill: white }
+    rect.cell { fill: none }
+    rect.other { fill: rgba(0, 0, 0, 0.125) }
+    .cell.fa { fill: #fe2ff7 }
+    .cell.fp { fill: #2fbcfe }
+    .cell.fd { fill: #feca2f }
+  </style>
+  <!-- Head -->
+  <rect class="header" x="0" y="0" width="200" height="50"/>
+  <text class="header" x="100" y="30" font-size="25">week</text>
+  <rect class="header" x="200" y="0" width="800" height="50"/>
+  <text class="header" x="600" y="25" font-size="25">information design</text>
+  <rect class="header" x="0" y="50" width="1000" height="50"/>
+  <text class="header" x="600" y="75" font-size="25">core (pt. 1, everyone)</text>
+  <!-- Weeks -->
+  <rect class="header" x="0" y="100" width="200" height="50"/>
+  <text class="header" x="100" y="125" font-size="25">36</text>
+  <rect class="header" x="0" y="150" width="200" height="50"/>
+  <text class="header" x="100" y="175" font-size="25">37</text>
+  <rect class="header" x="0" y="200" width="200" height="50"/>
+  <text class="header" x="100" y="225" font-size="25">38</text>
+  <rect class="header" x="0" y="250" width="200" height="50"/>
+  <text class="header" x="100" y="275" font-size="25">39</text>
+  <rect class="header" x="0" y="300" width="200" height="50"/>
+  <text class="header" x="100" y="325" font-size="25">40</text>
+
+  <rect class="header" x="0" y="350" width="1000" height="50"/>
+  <text class="header" x="400" y="375" font-size="25">tech track</text>
+  <text class="header" x="800" y="375" font-size="25">visual track</text>
+
+  <rect class="header" x="0" y="400" width="200" height="50"/>
+  <text class="header" x="100" y="425" font-size="25">41</text>
+  <rect class="header" x="0" y="450" width="200" height="50"/>
+  <text class="header" x="100" y="475" font-size="25">42</text>
+  <rect class="header" x="0" y="500" width="200" height="50"/>
+  <text class="header" x="100" y="525" font-size="25">43</text>
+  <rect class="header" x="0" y="550" width="200" height="50"/>
+  <text class="header" x="100" y="575" font-size="25">44</text>
+  <rect class="header" x="0" y="600" width="200" height="50"/>
+  <text class="header" x="100" y="625" font-size="25">45</text>
+  <rect class="header" x="0" y="650" width="200" height="50"/>
+  <text class="header" x="100" y="675" font-size="25">46</text>
+  <rect class="header" x="0" y="700" width="200" height="50"/>
+  <text class="header" x="100" y="725" font-size="25">47</text>
+
+  <rect class="header" x="0" y="750" width="1000" height="50"/>
+  <text class="header" x="600" y="775" font-size="25">core (pt. 2, everyone)</text>
+
+  <rect class="header" x="0" y="800" width="200" height="50"/>
+  <text class="header" x="100" y="825" font-size="25">48</text>
+  <rect class="header" x="0" y="850" width="200" height="50"/>
+  <text class="header" x="100" y="875" font-size="25">49</text>
+  <rect class="header" x="0" y="900" width="200" height="50"/>
+  <text class="header" x="100" y="925" font-size="25">50</text>
+  <rect class="header" x="0" y="950" width="200" height="50"/>
+  <text class="header" x="100" y="975" font-size="25">51</text>
+  <rect class="header" x="0" y="1000" width="200" height="50"/>
+  <text class="header" x="100" y="1025" font-size="25">52</text>
+  <rect class="header" x="0" y="1050" width="200" height="50"/>
+  <text class="header" x="100" y="1075" font-size="25">1</text>
+  <rect class="header" x="0" y="1100" width="200" height="50"/>
+  <text class="header" x="100" y="1125" font-size="25">2</text>
+  <rect class="header" x="0" y="1150" width="200" height="50"/>
+  <text class="header" x="100" y="1175" font-size="25">3</text>
+  <rect class="header" x="0" y="1200" width="200" height="50"/>
+  <text class="header" x="100" y="1225" font-size="25">4</text>
+  <rect class="header" x="0" y="1250" width="200" height="50"/>
+  <text class="header" x="100" y="1275" font-size="25">5</text>
+
+  <!-- Courses -->
+  <rect class="cell" x="200" y="100" width="800" height="100"/>
+  <text class="cell" x="600" y="150" font-size="25">data visualisation</text>
+  <rect class="cell" x="200" y="200" width="400" height="150"/>
+  <text class="cell" x="400" y="275" font-size="25">research for data</text>
+  <rect class="cell" x="600" y="200" width="400" height="150"/>
+  <text class="cell" x="800" y="275" font-size="25">storytelling for data</text>
+  <rect class="cell" x="600" y="400" width="400" height="100"/>
+  <text class="cell" x="800" y="450" font-size="25">tools for data</text>
+  <a xlink:href="https://github.com/cmda-tt/course-18-19#fa">
+    <rect class="cell fa" x="200" y="400" width="400" height="100"/>
+    <text class="cell" x="400" y="450" font-size="25">frontend applications</text>
+  </a>
+  <rect class="other" x="200" y="500" width="800" height="50"/>
+  <text class="other" x="600" y="525" font-size="25">autumn recess</text>
+  <a xlink:href="https://github.com/cmda-tt/course-18-19#fp">
+    <rect class="cell fp" x="200" y="550" width="400" height="100"/>
+    <text class="cell" x="400" y="600" font-size="25">functional programming</text>
+  </a>
+  <a xlink:href="https://github.com/cmda-tt/course-18-19#fd">
+    <rect class="cell fd" x="200" y="650" width="400" height="100"/>
+    <text class="cell" x="400" y="700" font-size="25">frontend data</text>
+  </a>
+  <rect class="cell" x="600" y="550" width="200" height="200"/>
+  <text class="cell" x="700" y="650" font-size="25">motion design</text>
+  <rect class="cell" x="800" y="550" width="200" height="200"/>
+  <text class="cell" x="900" y="635" font-size="25">explanation</text>
+  <text class="cell" x="900" y="665" font-size="25">design</text>
+  <rect class="other" x="200" y="800" width="800" height="50"/>
+  <text class="other" x="600" y="825" font-size="25">course resits</text>
+  <rect class="cell" x="200" y="850" width="800" height="50"/>
+  <text class="cell" x="600" y="875" font-size="25">data week</text>
+  <rect class="cell" x="200" y="900" width="800" height="100"/>
+  <text class="cell" x="600" y="950" font-size="25">team project (pt. 1)</text>
+  <rect class="other" x="200" y="1000" width="800" height="100"/>
+  <text class="other" x="600" y="1050" font-size="25">holiday season</text>
+  <rect class="cell" x="200" y="1100" width="800" height="150"/>
+  <text class="cell" x="600" y="1175" font-size="25">team project (pt. 2)</text>
+  <rect class="other" x="200" y="1250" width="800" height="50"/>
+  <text class="other" x="600" y="1275" font-size="25">project resits</text>
+</svg>
