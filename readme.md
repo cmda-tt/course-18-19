@@ -1,6 +1,6 @@
 <!-- lint disable no-html-->
 
-# Tech Track - Courses 2018-2019
+# ![Tech Track - Courses 2018-2019][banner]
 
 ## Table of Contents
 
@@ -263,6 +263,8 @@ docs and images are [CC-BY-4.0][].
 [cc-by-4.0]: license.md#documentation-and-images
 
 [author]: http://wooorm.com
+
+[banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner.svg
 
 [cmda]: https://github.com/cmda
 
