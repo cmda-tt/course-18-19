@@ -97,12 +97,12 @@ In practice you’ll learn to:
 
 ## Grade
 
-| Task         |   Weight |
-| ------------ | -------: |
-| Assessment 1 |    33.3% |
-| Assessment 2 |    33.3% |
-| Assessment 3 |    33.3% |
-| **Total**    | **100%** |
+| Task         |     Weight |
+| ------------ | ---------: |
+| Assessment 1 |     3 ECTS |
+| Assessment 2 |     3 ECTS |
+| Assessment 3 |     3 ECTS |
+| **Total**    | **9 ECTS** |
 
 ## Materials
 
