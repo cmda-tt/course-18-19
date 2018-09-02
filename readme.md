@@ -214,7 +214,7 @@ Albeit technical, the track tests your creativity.
 <p align="center">
 <img
 width="600"
-src="https://cdn.rawgit.com/cmda-tt/course-18-19/539c486/image/semester.svg"
+src="https://cdn.rawgit.com/cmda-tt/course-18-19/650d4d3/image/semester.svg"
 alt="">
 </p>
 
