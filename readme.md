@@ -1,6 +1,6 @@
 <!-- lint disable no-html-->
 
-# Tech Track - Course 2018-2019
+# Tech Track - Courses 2018-2019
 
 ## Table of Contents
 
@@ -63,7 +63,7 @@ If you’d like to continue with web development after this track, pick
 
 #### Main goals
 
-The 2 main goals in this course are that you’re able to:
+The 2 main goals in this track are that you’re able to:
 
 *   learn how to create with libraries
 *   create interactive visualisations from external data
@@ -106,7 +106,7 @@ In practice you’ll learn to:
 
 ## Materials
 
-#### Resources used in this course
+#### Resources used in this track
 
 *   🆓 GitHub account (**required**)
     — [Sign Up](https://help.github.com/articles/signing-up-for-a-new-github-account/)
@@ -220,7 +220,7 @@ alt="">
 
 ## Programme
 
-This course is given at [Communication and Multimedia Design][bachelor], a
+This track is given at [Communication and Multimedia Design][bachelor], a
 design bachelor focused on interactive digital products and services.
 CMD is part of the [Faculty of Digital Media and Creative Industries][faculty]
 at the [Amsterdam University of Applied Sciences][university].
