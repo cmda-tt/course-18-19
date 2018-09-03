@@ -65,8 +65,10 @@ If you’d like to continue with web development after this track, pick
 
 The 2 main goals in this track are that you’re able to:
 
-*   learn how to create with libraries
-*   create interactive visualisations from external data
+*   <a name="goal-1"></a>
+    learn how to create with libraries
+*   <a name="goal-2"></a>
+    create interactive visualisations from external data
 
 #### Subgoals
 
