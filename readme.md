@@ -11,6 +11,7 @@
 *   [Grade](#grade)
 *   [Materials](#materials)
 *   [Semester](#semester)
+*   [Bugs](#bugs)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
 *   [License](#license)
@@ -220,6 +221,24 @@ src="https://cdn.rawgit.com/cmda-tt/course-18-19/650d4d3/image/semester.svg"
 alt="">
 </p>
 
+## Bugs
+
+If you have questions:
+
+*   Read the manual for the technology in question
+    ([Git](https://git-scm.com/docs),
+    [GitHub](https://guides.github.com),
+    [Node](https://nodejs.org/api/),
+    [npm](https://docs.npmjs.com),
+    [react](https://reactjs.org/docs/getting-started.html),
+    [vue](https://vuejs.org/v2/guide/),
+    [ember](http://guides.emberjs.com/release/),
+    [d3](https://d3js.org))
+*   [Search StackOverflow](https://stackoverflow.com)
+*   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
+*   [Ask questions on Slack][slack]
+*   [Contact a lecturer][synopsis]
+
 ## Programme
 
 This track is given at [Communication and Multimedia Design][bachelor], a
@@ -267,6 +286,8 @@ docs and images are [CC-BY-4.0][].
 [author]: http://wooorm.com
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner.svg
+
+[synopsis]: #synopsis
 
 [cmda]: https://github.com/cmda
 
