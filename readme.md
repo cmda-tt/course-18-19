@@ -6,6 +6,9 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
+*   [Frontend Applications](#frontend-applications)
+*   [Functional Programming](#functional-programming)
+*   [Frontend Data](#frontend-data)
 *   [Communication](#communication)
 *   [Goals](#goals)
 *   [Grade](#grade)
@@ -48,6 +51,28 @@ Design (fall semester), building further on knowledge acquired in
 
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
+
+## ![Frontend Applications][banner-fa]
+
+In frontend apps (**fa**) students learn how to learn a library, and
+concretely how to load external data and manipulate elements.
+Students additionally learn about programming principles like reading and
+writing documentation.
+
+## ![Functional Programming][banner-fp]
+
+In functional programming (**fp**) students learn how to create visualisations
+from external data, and how to clean and transform data, use svg, use d3, and
+specifically use d3’s scales.
+Students additionally apply learning attained in frontend apps.
+
+## ![Frontend Data][banner-fd]
+
+In frontend data (**fd**) students create an interactive visualisation, use data
+joins, apply motion, and additionally apply learning outcomes attained in
+previous courses.
+Students additionally learn about programming principles like debugging and
+refactoring code.
 
 ## Communication
 
@@ -286,6 +311,12 @@ docs and images are [CC-BY-4.0][].
 [author]: http://wooorm.com
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner.svg
+
+[banner-fa]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-applications.svg
+
+[banner-fp]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
+
+[banner-fd]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-data.svg
 
 [synopsis]: #synopsis
 
