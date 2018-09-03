@@ -99,12 +99,12 @@ In practice you’ll learn to:
 
 ## Grade
 
-| Task         |     Weight |
-| ------------ | ---------: |
-| Assessment 1 |     3 ECTS |
-| Assessment 2 |     3 ECTS |
-| Assessment 3 |     3 ECTS |
-| **Total**    | **9 ECTS** |
+| Task               |     Weight |
+| ------------------ | ---------: |
+| [Assessment 1][a1] |     3 ECTS |
+| [Assessment 2][a2] |     3 ECTS |
+| [Assessment 3][a3] |     3 ECTS |
+| **Total**          | **9 ECTS** |
 
 ## Materials
 
@@ -289,6 +289,12 @@ docs and images are [CC-BY-4.0][].
 [slack]: https://cmdinformationdesign.slack.com
 
 [moodle]: https://moodle.cmd.hva.nl/course/view.php?id=511
+
+[a1]: assessment-1.md
+
+[a2]: assessment-2.md
+
+[a3]: assessment-3.md
 
 [lynda-portal]: https://lyndaportal.ict.hva.nl
 
