@@ -4,6 +4,7 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
+*   [Assignment](#assignment)
 *   [Goals](#goals)
 *   [Rubric](#rubric)
 
@@ -20,11 +21,17 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 ## Description
 
-Assessment 1 tests your skills for **frontend applications**.
+Assessment 1 tests your skills for [**frontend applications**][fa].
 
 > **Note**: your project must be a repository on GitHub named `tt-assessment-1`.
 
 We will download and archive your project when it’s due.
+
+## Assignment
+
+Create a client-side application in JavaScript with a popular framework based
+on given data.
+Evaluate the framework in groups.
 
 ## Goals
 
@@ -92,6 +99,8 @@ data**).
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-1.svg
 
 [rooster]: https://rooster.hva.nl
+
+[fa]: readme.md#frontend-applications
 
 [g1]: readme.md#goal-1
 

@@ -4,6 +4,7 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
+*   [Assignment](#assignment)
 *   [Goals](#goals)
 *   [Rubric](#rubric)
 
@@ -20,11 +21,16 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 ## Description
 
-Assessment 3 tests your skills for **frontend data**.
+Assessment 3 tests your skills for [**frontend data**][fd].
 
 > **Note**: your project must be a repository on GitHub named `tt-assessment-3`.
 
 We will download and archive your project when it’s due.
+
+## Assignment
+
+Create a data visualisation (using the d3 library) based on given data where
+data can be explored through interaction using enter, update, and exit.
 
 ## Goals
 
@@ -89,6 +95,8 @@ This assessment focusses on all [goals][g] and [subgoals][s].
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-3.svg
 
 [rooster]: https://rooster.hva.nl
+
+[fd]: readme.md#frontend-data
 
 [g]: readme.md#main-goals
 

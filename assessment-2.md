@@ -4,6 +4,7 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
+*   [Assignment](#assignment)
 *   [Goals](#goals)
 *   [Rubric](#rubric)
 
@@ -20,11 +21,15 @@ Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
 
 ## Description
 
-Assessment 2 tests your skills for **functional programming**.
+Assessment 2 tests your skills for [**functional programming**][fp].
 
 > **Note**: your project must be a repository on GitHub named `tt-assessment-2`.
 
 We will download and archive your project when it’s due.
+
+## Assignment
+
+Create a data visualisation with d3 based on given data.
 
 ## Goals
 
@@ -94,6 +99,8 @@ and [subgoal 9][s9] (**use scales**).
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-2.svg
 
 [rooster]: https://rooster.hva.nl
+
+[fp]: readme.md#functional-programming
 
 [g1]: readme.md#goal-1
 
