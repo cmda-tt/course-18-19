@@ -52,6 +52,8 @@ Design (fall semester), building further on knowledge acquired in
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
 
+<a name="fa"></a>
+
 ## ![Frontend Applications][banner-fa]
 
 In frontend apps (**fa**) students learn how to learn a library, and
@@ -59,12 +61,16 @@ concretely how to load external data and manipulate elements.
 Students additionally learn about programming principles like reading and
 writing documentation.
 
+<a name="fp"></a>
+
 ## ![Functional Programming][banner-fp]
 
 In functional programming (**fp**) students learn how to create visualisations
 from external data, and how to clean and transform data, use svg, use d3, and
 specifically use d3’s scales.
 Students additionally apply learning attained in frontend apps.
+
+<a name="fd"></a>
 
 ## ![Frontend Data][banner-fd]
 
