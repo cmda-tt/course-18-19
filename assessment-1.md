@@ -10,9 +10,6 @@
 
 ## Synopsis
 
-Dates are indicative.
-Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
-
 *   **Weight**: 3 ECTS
 *   **Type**: Oral test
 *   **Date**: 19-10
@@ -97,8 +94,6 @@ data**).
 <!--lint enable no-html maximum-line-length-->
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-1.svg
-
-[rooster]: https://rooster.hva.nl
 
 [fa]: readme.md#fa
 

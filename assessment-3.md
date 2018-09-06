@@ -10,9 +10,6 @@
 
 ## Synopsis
 
-Dates are indicative.
-Check [`rooster.hva.nl`][rooster] for info on actual date, time, and place.
-
 *   **Weight**: 3 ECTS
 *   **Type**: Oral test
 *   **Date**: 23-11
@@ -93,8 +90,6 @@ This assessment focusses on all [goals][g] and [subgoals][s].
 <!--lint enable no-html maximum-line-length-->
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-3.svg
-
-[rooster]: https://rooster.hva.nl
 
 [fd]: readme.md#fd
 
