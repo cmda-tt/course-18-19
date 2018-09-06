@@ -50,6 +50,21 @@ Design (fall semester), building further on knowledge acquired in
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
 
+Here are a few examples of what students made last year:
+
+<!--lint disable maximum-line-length-->
+
+<table>
+  <tr valign="top">
+    <td width="25%"><a href="https://github.com/LeonvanZijl"><strong>@LeonvanZijl</strong></a><br><a href="https://LeonvanZijl.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/LeonvanZijl/fe3-assessment-3/master/preview.png"></a></td>
+    <td width="25%"><a href="https://github.com/danoszz"><strong>@danoszz</strong></a><br><a href="https://danoszz.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/danoszz/fe3-assessment-3/master/assets/images/preview.png"></a></td>
+    <td width="25%"><a href="https://github.com/meesrutten"><strong>@meesrutten</strong></a><br><a href="https://meesrutten.github.io/fe3-assessment-2/"><img src="https://raw.githubusercontent.com/meesrutten/fe3-assessment-2/master/chart.png"></a></td>
+    <td width="25%"><a href="https://github.com/vriesm060"><strong>@vriesm060</strong></a><br><a href="https://vriesm060.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/vriesm060/fe3-assessment-3/master/preview.png"></a></td>
+  </tr>
+</table>
+
+<!--lint enable maximum-line-length-->
+
 ## Courses
 
 <a name="fa"></a>
