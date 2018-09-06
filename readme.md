@@ -22,7 +22,8 @@
 The **Tech Track** is given at [**@CMDA**][cmda] in 2018 between
 8 October and 30 November.
 
-*   **Courses**: Frontend Applications, Functional Programming, Frontend Data
+*   **Courses**: [Frontend Applications][fa], [Functional Programming][fp],
+    [Frontend Data][fd]
 *   **Coordinator**: [Titus Wormer][wooorm-mail]
 *   **Lecturers**:
     [Titus Wormer][wooorm-mail] ([**@wooorm**][wooorm-gh]) and
@@ -342,6 +343,12 @@ docs and images are [CC-BY-4.0][].
 [synopsis]: #synopsis
 
 [cmda]: https://github.com/cmda
+
+[fa]: #fa
+
+[fp]: #fp
+
+[fd]: #fd
 
 [wooorm-gh]: https://github.com/wooorm
 
