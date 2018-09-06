@@ -96,7 +96,7 @@ This assessment focusses on all [goals][g] and [subgoals][s].
 
 [rooster]: https://rooster.hva.nl
 
-[fd]: readme.md#frontend-data
+[fd]: readme.md#fd
 
 [g]: readme.md#main-goals
 

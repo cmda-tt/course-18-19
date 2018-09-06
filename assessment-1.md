@@ -100,7 +100,7 @@ data**).
 
 [rooster]: https://rooster.hva.nl
 
-[fa]: readme.md#frontend-applications
+[fa]: readme.md#fa
 
 [g1]: readme.md#goal-1
 

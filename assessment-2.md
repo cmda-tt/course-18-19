@@ -100,7 +100,7 @@ and [subgoal 9][s9] (**use scales**).
 
 [rooster]: https://rooster.hva.nl
 
-[fp]: readme.md#functional-programming
+[fp]: readme.md#fp
 
 [g1]: readme.md#goal-1
 
