@@ -117,12 +117,12 @@ In practice you’ll learn to:
 
 ## Grade
 
-| Task               |     Weight |
-| ------------------ | ---------: |
-| [Assessment 1][a1] |     3 ECTS |
-| [Assessment 2][a2] |     3 ECTS |
-| [Assessment 3][a3] |     3 ECTS |
-| **Total**          | **9 ECTS** |
+| Course                       |     Points |
+| ---------------------------- | ---------: |
+| [Frontend Applications][fa]  |     3 ECTS |
+| [Functional Programming][fp] |     3 ECTS |
+| [Frontend Data][fd]          |     3 ECTS |
+| **Total**                    | **9 ECTS** |
 
 ## Materials
 
@@ -245,6 +245,8 @@ concretely how to load external data and manipulate elements.
 Students additionally learn about programming principles like reading and
 writing documentation.
 
+This course is completed by passing [assessment 1][a1].
+
 <a name="fp"></a>
 
 ### ![Functional Programming][banner-fp]
@@ -253,6 +255,8 @@ In functional programming (**fp**) students learn how to create visualisations
 from external data, and how to clean and transform data, use svg, use d3, and
 specifically use d3’s scales.
 Students additionally apply learning attained in frontend apps.
+
+This course is completed by passing [assessment 2][a2].
 
 <a name="fd"></a>
 
@@ -263,6 +267,8 @@ joins, apply motion, and additionally apply learning outcomes attained in
 previous courses.
 Students additionally learn about programming principles like debugging and
 refactoring code.
+
+This course is completed by passing [assessment 3][a3].
 
 ## Semester
 
