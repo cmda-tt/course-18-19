@@ -6,9 +6,7 @@
 
 *   [Synopsis](#synopsis)
 *   [Description](#description)
-*   [Frontend Applications](#frontend-applications)
-*   [Functional Programming](#functional-programming)
-*   [Frontend Data](#frontend-data)
+*   [Courses](#courses)
 *   [Communication](#communication)
 *   [Goals](#goals)
 *   [Grade](#grade)
@@ -52,9 +50,11 @@ Design (fall semester), building further on knowledge acquired in
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
 
+## Courses
+
 <a name="fa"></a>
 
-## ![Frontend Applications][banner-fa]
+### ![Frontend Applications][banner-fa]
 
 In frontend apps (**fa**) students learn how to learn a library, and
 concretely how to load external data and manipulate elements.
@@ -63,7 +63,7 @@ writing documentation.
 
 <a name="fp"></a>
 
-## ![Functional Programming][banner-fp]
+### ![Functional Programming][banner-fp]
 
 In functional programming (**fp**) students learn how to create visualisations
 from external data, and how to clean and transform data, use svg, use d3, and
@@ -72,7 +72,7 @@ Students additionally apply learning attained in frontend apps.
 
 <a name="fd"></a>
 
-## ![Frontend Data][banner-fd]
+### ![Frontend Data][banner-fd]
 
 In frontend data (**fd**) students create an interactive visualisation, use data
 joins, apply motion, and additionally apply learning outcomes attained in

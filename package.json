@@ -27,6 +27,7 @@
     },
     "plugins": [
       "preset-wooorm",
+      ["toc", {"maxDepth": 2}],
       ["validate-links", false],
       "lint-no-dead-urls"
     ]
