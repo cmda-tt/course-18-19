@@ -13,8 +13,8 @@
 *   [Goals](#goals)
 *   [Grade](#grade)
 *   [Materials](#materials)
-*   [Semester](#semester)
 *   [Bugs](#bugs)
+*   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
 *   [License](#license)
@@ -230,6 +230,24 @@ In practice you’ll learn to:
     O’Reilly Media, 2016][ydkjs-6]
     (**frontend 2**)
 
+## Bugs
+
+If you have questions:
+
+*   Read the manual for the technology in question
+    ([Git](https://git-scm.com/docs),
+    [GitHub](https://guides.github.com),
+    [Node](https://nodejs.org/api/),
+    [npm](https://docs.npmjs.com),
+    [react](https://reactjs.org/docs/getting-started.html),
+    [vue](https://vuejs.org/v2/guide/),
+    [ember](http://guides.emberjs.com/release/),
+    [d3](https://d3js.org))
+*   [Search StackOverflow](https://stackoverflow.com)
+*   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
+*   [Ask questions on Slack][slack]
+*   [Contact a lecturer][synopsis]
+
 ## Semester
 
 This track is given in the Information Design semester (fall).
@@ -251,24 +269,6 @@ width="600"
 src="https://cdn.rawgit.com/cmda-tt/course-18-19/650d4d3/image/semester.svg"
 alt="">
 </p>
-
-## Bugs
-
-If you have questions:
-
-*   Read the manual for the technology in question
-    ([Git](https://git-scm.com/docs),
-    [GitHub](https://guides.github.com),
-    [Node](https://nodejs.org/api/),
-    [npm](https://docs.npmjs.com),
-    [react](https://reactjs.org/docs/getting-started.html),
-    [vue](https://vuejs.org/v2/guide/),
-    [ember](http://guides.emberjs.com/release/),
-    [d3](https://d3js.org))
-*   [Search StackOverflow](https://stackoverflow.com)
-*   [Use a search engine like DuckDuckGo](https://duckduckgo.com)
-*   [Ask questions on Slack][slack]
-*   [Contact a lecturer][synopsis]
 
 ## Programme
 
