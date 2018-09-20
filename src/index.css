@@ -1,0 +1,249 @@
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: blue;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  line-height: 1.681;
+  font-size: 1.25em;
+}
+
+body {
+  margin: 0;
+  background-image: url(cover-thumbnail.jpg);
+  background-position: right top;
+  background-size: cover;
+  background-attachment: fixed;
+  image-rendering: pixelated;
+}
+
+header,
+footer {
+  position: relative;
+  text-align: center;
+}
+
+.lazy {
+  opacity: 0;
+  background-position: right top;
+  background-size: cover;
+  background-attachment: fixed;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transition: opacity 900ms;
+}
+
+.loaded .lazy {
+  opacity: 0.8;
+}
+
+header::after,
+footer::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(pattern.svg);
+  background-attachment: fixed;
+}
+
+article {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+h1,
+h2,
+strong,
+a {
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 4em;
+  color: white;
+  text-shadow: 0.2rem 0.2rem 0 black;
+}
+
+@media (min-width: 30em) {
+  h1 {
+    font-size: 6em;
+  }
+}
+
+.js h1 {
+  position: relative;
+  top: 0.5em;
+  opacity: 0;
+  transition: top 600ms ease-out, opacity 300ms;
+}
+
+.js.init h1 {
+  top: 0;
+  opacity: 1;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+a {
+  transition: color 300ms;
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover,
+a:focus {
+  color: darkblue;
+}
+
+a img {
+  border: 0.2rem solid;
+  box-shadow: 0.2rem 0.2rem 0 black;
+  border-radius: 0.2rem;
+}
+
+footer img {
+  border: none;
+  max-width: 3em;
+}
+
+figure {
+  margin: 1em -1em;
+}
+
+blockquote {
+  margin-left: 0.66em;
+  margin-right: 0.66em;
+  font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 1.5em;
+  text-indent: -0.32em; /* “ */
+}
+
+blockquote + figcaption {
+  margin-top: -1em;
+  text-indent: -0.32em; /* Space */
+}
+
+@media (min-width: 30em) {
+  .partners {
+    display: flex;
+  }
+}
+
+.partners {
+  list-style: none;
+  align-items: center;
+  margin: 0 -1em;
+  padding: 0;
+}
+
+.partners li {
+  min-width: 5em;
+  flex: 1;
+  margin: 1em;
+}
+
+.partners a {
+  display: block;
+  filter: grayscale(100%);
+  transition: 300ms filter;
+}
+
+.partners a:hover,
+.partners a:focus {
+  filter: grayscale(0%);
+}
+
+.partners img {
+  padding: 0.4em;
+}
+
+.avatar {
+  float: right;
+  max-width: 4em;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+.avatar img {
+  border-radius: 100%;
+}
+
+.tbd {
+  text-align: center;
+  padding: 0.4em;
+  border-radius: 0.2em;
+  border: 0.2em dashed;
+}
+
+.action {
+  padding: 0.2em 0.4em;
+  border-radius: 0.2rem;
+  border: 0.2rem solid;
+  box-shadow: 0.2rem 0.2rem 0 black;
+}
+
+.block {
+  max-width: 44em;
+  padding: 2em;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* http://tholman.com/github-corners/ */
+.github-corner {
+  width: 25%;
+  max-width: 10em;
+  min-width: 3em;
+  border: 0;
+  display: block;
+  line-height: 0;
+  float: right;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.github-corner svg {
+  color: white;
+}
+
+.octo-arm {
+  transform-origin: 130px 106px;
+}
+
+.github-corner:hover .octo-arm,
+.github-corner:focus .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+
+  20%,
+  60% {
+    transform: rotate(-25deg);
+  }
+
+  40%,
+  80% {
+    transform: rotate(10deg);
+  }
+}
