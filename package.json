@@ -31,7 +31,7 @@
   },
   "scripts": {
     "format": "remark . -qfo && prettier --write '**/*.js' && xo --fix && stylelint src/index.css --fix",
-    "build:asset": "cp -r src dest",
+    "build:asset": "cp -r src/* dest",
     "build:js": "browserify -p tinyify src -o dest/index.js",
     "build:css": "postcss src/index.css > dest/index.css",
     "build:html": "rehype -qfo -u preset-minify -u prevent-favicon-request src -o dest",
