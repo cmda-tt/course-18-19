@@ -31,11 +31,11 @@
   },
   "scripts": {
     "format": "remark . -qfo && prettier --write '**/*.js' && xo --fix && stylelint src/index.css --fix",
+    "build:asset": "cp -r src dest",
     "build:js": "browserify -p tinyify src -o dest/index.js",
     "build:css": "postcss src/index.css > dest/index.css",
     "build:html": "rehype -qfo -u preset-minify -u prevent-favicon-request src -o dest",
-    "build:asset": "cp -r src/*.{jpg,png,svg} dest",
-    "build": "npm run build:js && npm run build:css && npm run build:html && npm run build:asset",
+    "build": "npm run build:asset && npm run build:js && npm run build:css && npm run build:html",
     "test": "npm run format && npm run build"
   },
   "stylelint": {
