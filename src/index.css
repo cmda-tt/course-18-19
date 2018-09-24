@@ -9,7 +9,12 @@
 html {
   font-family: system-ui, sans-serif;
   line-height: 1.681;
-  font-size: 1.25em;
+}
+
+@media (min-width: 30em) {
+  html {
+    font-size: 1.25em;
+  }
 }
 
 body {
