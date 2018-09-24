@@ -148,6 +148,18 @@ blockquote + figcaption {
   }
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+@media (min-width: 30em) {
+  td {
+    border: 0.2em solid;
+    padding: 1em;
+  }
+}
+
 .partners {
   list-style: none;
   align-items: center;
