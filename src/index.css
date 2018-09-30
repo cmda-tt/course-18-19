@@ -19,7 +19,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url(cover-thumbnail.jpg);
+  background-image: url(../dest/cover-thumbnail.jpg);
   background-position: right top;
   background-size: cover;
   background-attachment: fixed;
@@ -57,7 +57,7 @@ footer::after {
   top: 0;
   right: 0;
   bottom: 0;
-  background-image: url(pattern.svg);
+  background-image: url(../dest/pattern.svg);
   background-attachment: fixed;
 }
 
