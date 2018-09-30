@@ -6,6 +6,18 @@
   background: blue;
 }
 
+/* Visually hidden, but accessible.
+ * See: https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ * See: https://webaim.org/techniques/css/invisiblecontent/
+ */
+.byline {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
 html {
   font-family: system-ui, sans-serif;
   line-height: 1.681;
