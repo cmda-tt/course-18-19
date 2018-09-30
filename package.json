@@ -25,6 +25,7 @@
     "postcss-preset-env": "^6.0.0",
     "prettier": "^1.14.3",
     "rehype-cli": "^6.0.0",
+    "rehype-picture": "^1.0.2",
     "rehype-preset-minify": "^2.1.0",
     "rehype-prevent-favicon-request": "^1.0.0",
     "remark-cli": "^5.0.0",
@@ -38,10 +39,10 @@
     "format": "remark . -qfo && prettier --write '**/*.js' && xo --fix && stylelint src/index.css --fix",
     "build:asset": "cp -r src/* dest",
     "build:img": "imagemin src/*.{svg,png,jpg} -o dest -p svgo -p jpegtran -p pngquant",
-    "build:webp": "imagemin dest/*.{png,jpg} -o dest",
+    "build:webp": "imagemin src/*.{png,jpg} -o dest -p jpegtran -p pngquant -p webp",
     "build:js": "browserify -p tinyify src -o dest/index.js",
     "build:css": "postcss src/index.css > dest/index.css",
-    "build:html": "rehype -qfo -u preset-minify -u prevent-favicon-request src -o dest",
+    "build:html": "rehype src -qfo -o dest",
     "build": "npm run build:asset && npm run build:img && npm run build:webp && npm run build:js && npm run build:css && npm run build:html",
     "test": "npm run format && npm run build"
   },
@@ -79,6 +80,23 @@
   "remarkConfig": {
     "plugins": [
       "preset-wooorm"
+    ]
+  },
+  "rehype": {
+    "plugins": [
+      "preset-minify",
+      "prevent-favicon-request",
+      [
+        "picture",
+        {
+          "jpg": {
+            "webp": "image/webp"
+          },
+          "png": {
+            "webp": "image/webp"
+          }
+        }
+      ]
     ]
   }
 }
