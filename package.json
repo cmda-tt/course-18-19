@@ -15,6 +15,11 @@
   "devDependencies": {
     "browserify": "^16.2.2",
     "cssnano": "^4.1.0",
+    "imagemin-cli": "^3.0.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^6.0.0",
+    "imagemin-svgo": "^7.0.0",
+    "imagemin-webp": "^4.1.0",
     "postcss-cli": "^6.0.0",
     "postcss-image-inliner": "^2.0.0",
     "postcss-preset-env": "^6.0.0",
@@ -32,10 +37,12 @@
   "scripts": {
     "format": "remark . -qfo && prettier --write '**/*.js' && xo --fix && stylelint src/index.css --fix",
     "build:asset": "cp -r src/* dest",
+    "build:img": "imagemin src/*.{svg,png,jpg} -o dest -p svgo -p jpegtran -p pngquant",
+    "build:webp": "imagemin dest/*.{png,jpg} -o dest",
     "build:js": "browserify -p tinyify src -o dest/index.js",
     "build:css": "postcss src/index.css > dest/index.css",
     "build:html": "rehype -qfo -u preset-minify -u prevent-favicon-request src -o dest",
-    "build": "npm run build:asset && npm run build:js && npm run build:css && npm run build:html",
+    "build": "npm run build:asset && npm run build:img && npm run build:webp && npm run build:js && npm run build:css && npm run build:html",
     "test": "npm run format && npm run build"
   },
   "stylelint": {
