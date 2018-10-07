@@ -43,7 +43,7 @@ You additionally apply learning attained in frontend apps.
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
 
-[inspiration-cover]: ../image/figures-in-the-sky.jpg
+[inspiration-cover]: ../image/buildings.jpg
 
 [inspiration-link]: http://code.waag.org/buildings/
 
