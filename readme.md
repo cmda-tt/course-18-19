@@ -11,7 +11,6 @@
 *   [Grade](#grade)
 *   [Materials](#materials)
 *   [Bugs](#bugs)
-*   [Courses](#courses)
 *   [Semester](#semester)
 *   [Programme](#programme)
 *   [Conduct](#conduct)
@@ -234,42 +233,6 @@ If you have questions:
 *   [Ask questions on Slack][slack]
 *   [Contact a lecturer][synopsis]
 
-## Courses
-
-<a name="fa"></a>
-
-### ![Frontend Applications][banner-fa]
-
-In frontend apps (**fa**) students learn how to learn a library, and
-concretely how to load external data and manipulate elements.
-Students additionally learn about programming principles like reading and
-writing documentation.
-
-This course is completed by passing [assessment 1][a1].
-
-<a name="fp"></a>
-
-### ![Functional Programming][banner-fp]
-
-In functional programming (**fp**) students learn how to create visualisations
-from external data, and how to clean and transform data, use svg, use d3, and
-specifically use d3’s scales.
-Students additionally apply learning attained in frontend apps.
-
-This course is completed by passing [assessment 2][a2].
-
-<a name="fd"></a>
-
-### ![Frontend Data][banner-fd]
-
-In frontend data (**fd**) students create an interactive visualisation, use data
-joins, apply motion, and additionally apply learning outcomes attained in
-previous courses.
-Students additionally learn about programming principles like debugging and
-refactoring code.
-
-This course is completed by passing [assessment 3][a3].
-
 ## Semester
 
 This track is given in the Information Design semester (fall).
@@ -340,21 +303,15 @@ docs and images are [CC-BY-4.0][].
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner.svg
 
-[banner-fa]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-applications.svg
-
-[banner-fp]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
-
-[banner-fd]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-data.svg
-
 [synopsis]: #synopsis
 
 [cmda]: https://github.com/cmda
 
-[fa]: #fa
+[fa]: frontend-applications
 
-[fp]: #fp
+[fp]: functional-programming
 
-[fd]: #fd
+[fd]: frontend-data
 
 [wooorm-gh]: https://github.com/wooorm
 
@@ -375,12 +332,6 @@ docs and images are [CC-BY-4.0][].
 [slack]: https://cmdinformationdesign.slack.com
 
 [moodle]: https://moodle.cmd.hva.nl/course/view.php?id=511
-
-[a1]: assessment-1.md
-
-[a2]: assessment-2.md
-
-[a3]: assessment-3.md
 
 [lynda-portal]: https://lyndaportal.ict.hva.nl
 

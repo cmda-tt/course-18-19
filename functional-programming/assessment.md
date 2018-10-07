@@ -1,4 +1,4 @@
-# ![Assessment 1][banner]
+# [![Assessment 2][banner]][fp]
 
 ## Table of Contents
 
@@ -12,26 +12,30 @@
 
 *   **Weight**: 3 ECTS
 *   **Type**: Oral test
-*   **Date**: 23-11
-*   **Resit**: 29-11
+*   **Date**: 09-11
+*   **Resit**: 28-11
 *   **Grade**: At least 5.5 to pass this course
 
 ## Description
 
-Assessment 3 tests your skills for [**frontend data**][fd].
+Assessment 2 tests your skills for [**functional programming**][fp].
 
-> **Note**: your project must be a repository on GitHub named `tt-assessment-3`.
+> **Note**: your project must be a repository on GitHub named `functional-programming`.
 
 We will download and archive your project when it’s due.
 
 ## Assignment
 
-Create a data visualisation (using the d3 library) based on given data where
-data can be explored through interaction using enter, update, and exit.
+Create a data visualisation with d3 based on given data.
 
 ## Goals
 
-This assessment focusses on all [goals][g] and [subgoals][s].
+This assessment focusses on [goal 1][g1] (**learn how to create with
+libraries**), [goal 2][g2] (**create interactive visualisations from external
+data**), [subgoal 1][s1] (**read docs**), [subgoal 2][s2] (**write docs**),
+[subgoal 5][s5] (**manipulate elements**), [subgoal 6][s6] (**load external
+data**), [subgoal 7][s7] (**transform data**), [subgoal 8][s8] (**use svg**),
+and [subgoal 9][s9] (**use scales**).
 
 ## Rubric
 
@@ -43,7 +47,7 @@ This assessment focusses on all [goals][g] and [subgoals][s].
       <th></th>
       <th><strong>1-2</strong></th>
       <th><strong>3-4</strong></th>
-      <th><§strong>5-6</strong></th>
+      <th><strong>5-6</strong></th>
       <th><strong>7-8</strong></th>
       <th><strong>9-10</strong></th>
     </tr>
@@ -51,10 +55,10 @@ This assessment focusses on all [goals][g] and [subgoals][s].
   <tbody>
     <tr>
       <th align="center" scope="row"><strong>Application</strong> of subject matter</th>
-      <td align="center">Git, npm, <strong>and d3 are used</strong>; the project runs without errors; <strong>data is loaded with d3</strong>; there is a representation of data</td>
+      <td align="center">Git, npm, <strong>and d3</strong> are used; the project runs without errors; data is loaded with d3; there is a representation of data</td>
       <td align="center"><strong>Data is rendered with d3</strong>; interpreting the representation is easier that interpreting the data itself</td>
-      <td align="center"><strong>d3 is used to clean data and make an interactive representation; Data is transformed</strong></td>
-      <td align="center">Representation and <strong>use of a d3</strong> go beyond an example: there are demonstrable additions <strong>like well-chosen interaction methods</strong></td>
+      <td align="center"><strong>d3 is used to clean data and make a dynamic representation;data is functionally transformed</strong></td>
+      <td align="center">Representation and <strong>use of d3</strong> go beyond an example: there are demonstrable additions <strong>like a well-chosen scale</strong></td>
       <td align="center">😱<br>The way the student applies subject matter  is more advanced than what they were taught in class; let’s switch places</td>
     </tr>
     <tr>
@@ -89,10 +93,24 @@ This assessment focusses on all [goals][g] and [subgoals][s].
 
 <!--lint enable no-html maximum-line-length-->
 
-[banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-3.svg
+[banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-2.svg
 
-[fd]: readme.md#fd
+[fp]: ./readme.md
 
-[g]: readme.md#main-goals
+[g1]: ../readme.md#goal-1
 
-[s]: readme.md#subgoals
+[g2]: ../readme.md#goal-2
+
+[s1]: ../readme.md#subgoal-1
+
+[s2]: ../readme.md#subgoal-2
+
+[s5]: ../readme.md#subgoal-5
+
+[s6]: ../readme.md#subgoal-6
+
+[s7]: ../readme.md#subgoal-7
+
+[s8]: ../readme.md#subgoal-8
+
+[s9]: ../readme.md#subgoal-9

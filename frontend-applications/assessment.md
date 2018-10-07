@@ -1,4 +1,4 @@
-# ![Assessment 1][banner]
+# [![Assessment 1][banner]][fa]
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@
 
 Assessment 1 tests your skills for [**frontend applications**][fa].
 
-> **Note**: your project must be a repository on GitHub named `tt-assessment-1`.
+> **Note**: your project must be a repository on GitHub named `frontend-applications`.
 
 We will download and archive your project when it’s due.
 
@@ -95,14 +95,14 @@ data**).
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-1.svg
 
-[fa]: readme.md#fa
+[fa]: ./readme.md
 
-[g1]: readme.md#goal-1
+[g1]: ../readme.md#goal-1
 
-[s1]: readme.md#subgoal-1
+[s1]: ../readme.md#subgoal-1
 
-[s2]: readme.md#subgoal-2
+[s2]: ../readme.md#subgoal-2
 
-[s5]: readme.md#subgoal-5
+[s5]: ../readme.md#subgoal-5
 
-[s6]: readme.md#subgoal-6
+[s6]: ../readme.md#subgoal-6
