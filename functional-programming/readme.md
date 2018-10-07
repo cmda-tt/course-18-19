@@ -36,10 +36,9 @@ You additionally apply learning attained in frontend apps.
 
 ## Schedule
 
-| Date     | Time          | Activity                                        |
-| -------- | ------------- | ----------------------------------------------- |
-| 29-10-18 | 12:00 - 17:00 | Kick off                                        |
-| 30-10-18 | 09:30 - 11:30 | Speaker: [Justus][] on Functional Philosophical |
+| Date     | Time          | Activity |
+| -------- | ------------- | -------- |
+| 29-10-18 | 12:00 - 17:00 | Kick off |
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
 
@@ -50,5 +49,3 @@ You additionally apply learning attained in frontend apps.
 [inspiration-author]: https://github.com/bertspaan
 
 [assessment]: ./assessment.md
-
-[justus]: https://twitter.com/ju5tu5
