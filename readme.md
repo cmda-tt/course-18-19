@@ -68,13 +68,14 @@ Here are a few examples of what students made last year:
 ## Communication
 
 *   [GitHub][home]
-    — Main source of information, assignments, important dates, and more
-*   Website
-    — Examples and assignments
-*   [Slack][]
+    — Main source of information, assignments, examples, important dates,
+    and more
+*   [Slack][] (**tech-track** channel)
     — General chatter and Q&A
 *   [Moodle][]
-    — Schedulers
+    — Nothing
+*   [Website][]
+    — URL you can send other people
 
 ## Goals
 
@@ -328,6 +329,8 @@ docs and images are [CC-BY-4.0][].
 [minor]: https://cmda.github.io/minor-everything-web/
 
 [home]: https://github.com/cmda-tt
+
+[website]: https://cmda-tt.github.io/course-18-19/
 
 [slack]: https://cmdinformationdesign.slack.com
 
