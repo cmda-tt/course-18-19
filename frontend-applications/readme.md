@@ -37,13 +37,13 @@ programming principles like reading and writing documentation.
 | Date     | Time          | Activity                                                           |
 | -------- | ------------- | ------------------------------------------------------------------ |
 | 08-10-18 | 12:00 - 13:30 | [Kick off][slides-kick-off]                                        |
-| 08-10-18 | 13:30 - 14:30 | Project pitch                                                      |
+| 08-10-18 | 13:30 - 14:30 | Arjan: Project pitch                                               |
 | 08-10-18 | 14:30 - 17:00 | Neighbourhood                                                      |
 | 09-10-18 | 09:30 - 12:00 | Speaker: [Hay][] on Vue, [Peter][] on React, [Albert][] on Angular |
 | 09-10-18 | 14:00 - 15:10 | [Bootcamp][slides-bootcamp]                                        |
 | 10-10-18 | 09:30 - 10:30 | [Workshop environment][slides-workshop-env]                        |
-| 10-10-18 | 10:30 - 12:00 | Project explanation                                                |
-| 15-10-18 | 09:30 - 13:00 | Project counselling                                                |
+| 10-10-18 | 10:30 - 12:00 | Arjan: Project explanation                                         |
+| 15-10-18 | 09:30 - 13:00 | Arjan: Project counselling                                         |
 | 17-10-18 | 09:30 - 11:00 | Speaker: [Nienke][] on when to use a framework                     |
 | 19-10-18 | 14:30 - 17:30 | Final presentations                                                |
 
