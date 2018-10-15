@@ -45,7 +45,8 @@ programming principles like reading and writing documentation.
 | 10-10-18 | 10:30 - 12:00 | Arjan: Project explanation                                         |
 | 15-10-18 | 09:30 - 13:00 | Arjan: Project counselling                                         |
 | 17-10-18 | 09:30 - 11:00 | Speaker: [Nienke][] on when to use a framework                     |
-| 19-10-18 | 14:30 - 17:30 | Final presentations                                                |
+| 19-10-18 | 12:00 - 17:30 | Final presentations                                                |
+| 19-10-18 | 17:30 - 19:30 | Borrel                                                             |
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-applications.svg
 
