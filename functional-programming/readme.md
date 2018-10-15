@@ -40,6 +40,7 @@ You additionally apply learning attained in frontend apps.
 | -------- | ------------- | -------------------- |
 | 29-10-18 | 12:00 - 17:00 | Kick off             |
 | 02-11-18 | 13:00 - 17:00 | [Bert][], Observable |
+| 05-11-18 | 09:30 - 11:00 | [Rejo][], BOF        |
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
 
@@ -52,3 +53,5 @@ You additionally apply learning attained in frontend apps.
 [assessment]: ./assessment.md
 
 [bert]: https://twitter.com/bertspaan
+
+[rejo]: https://twitter.com/rejozenger
