@@ -30,8 +30,8 @@ You additionally apply learning attained in frontend apps.
 *   **Course**: Functional Programming
 *   **Credit**: 3 ECTS
 *   **Date**: 29-10 — 09-11
-*   **Location**: 🤷
-*   **Partner**: 🤷
+*   **Location**: [Oosterdokskade 143, 1011 DL Amsterdam][location]
+*   **Partner**: [OBA][]
 *   **Assessment**: [Presentation on 09-11][assessment]
 
 ## Schedule
@@ -55,3 +55,7 @@ You additionally apply learning attained in frontend apps.
 [bert]: https://twitter.com/bertspaan
 
 [rejo]: https://twitter.com/rejozenger
+
+[location]: https://goo.gl/maps/TQEXVRTE42r
+
+[oba]: https://www.oba.nl
