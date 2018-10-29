@@ -39,7 +39,8 @@ refactoring code.
 
 | Date     | Time          | Activity                                |
 | -------- | ------------- | --------------------------------------- |
-| 12-11-18 | 09:30 - 17:00 | Kick off                                |
+| 12-11-18 | 09:30 - 10:30 | Kick off                                |
+| 12-11-18 | 10:30 - 12:00 | Speaker: [Emma][] on Design and Datavis |
 | 14-11-18 | 09:30 - 11:30 | Speaker: [Leon][] on Design and Datavis |
 | 19-11-18 | 09:30 - 11:30 | Speaker: [Justus][] on Clean Code       |
 | 21-11-18 | 09:30 - 11:30 | Speaker: [Nick][] on Noord/Zuidlijn     |
@@ -51,6 +52,8 @@ refactoring code.
 [inspiration-link]: https://decorrespondent.nl/8085/waarom-amsterdam-wel-een-coentunnel-heeft-en-nog-geen-damesgracht/1030332074310-8ac646fc
 
 [assessment]: ./assessment.md
+
+[emma]: https://digitalsocietyschool.org/author/emma/
 
 [leon]: https://twitter.com/dekorteleon
 
