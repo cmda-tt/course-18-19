@@ -36,11 +36,11 @@ You additionally apply learning attained in frontend apps.
 
 ## Schedule
 
-| Date     | Time          | Activity             |
-| -------- | ------------- | -------------------- |
-| 29-10-18 | 12:00 - 17:00 | Kick off             |
-| 02-11-18 | 13:00 - 17:00 | [Bert][], Observable |
-| 05-11-18 | 09:30 - 11:00 | [Rejo][], BOF        |
+| Date     | Time          | Activity                    |
+| -------- | ------------- | --------------------------- |
+| 29-10-18 | 12:00 - 17:00 | [Kick off][slides-kick-off] |
+| 02-11-18 | 13:00 - 17:00 | [Bert][], Observable        |
+| 05-11-18 | 09:30 - 11:00 | [Rejo][], BOF               |
 
 [banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
 
@@ -59,3 +59,5 @@ You additionally apply learning attained in frontend apps.
 [location]: https://goo.gl/maps/TQEXVRTE42r
 
 [oba]: https://www.oba.nl
+
+[slides-kick-off]: https://docs.google.com/presentation/d/1PxswMfvckJKKDaPtcjNLXSsC5z-a2w_2g0TwC16Fepc/edit?usp=sharing
