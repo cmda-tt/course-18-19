@@ -50,16 +50,16 @@ Design (fall semester), building further on knowledge acquired in
 If you’d like to continue with web development after this track, pick
 [**Minor Everything Web**][minor] in the spring semester.
 
-Here are a few examples of what students made last year:
+Here are a few examples of what students made in [frontend applications][fa]:
 
 <!--lint disable maximum-line-length-->
 
 <table>
   <tr valign="top">
-    <td width="25%"><a href="https://github.com/LeonvanZijl"><strong>@LeonvanZijl</strong></a><br><a href="https://LeonvanZijl.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/LeonvanZijl/fe3-assessment-3/master/preview.png"></a></td>
-    <td width="25%"><a href="https://github.com/danoszz"><strong>@danoszz</strong></a><br><a href="https://danoszz.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/danoszz/fe3-assessment-3/master/assets/images/preview.png"></a></td>
-    <td width="25%"><a href="https://github.com/meesrutten"><strong>@meesrutten</strong></a><br><a href="https://meesrutten.github.io/fe3-assessment-2/"><img src="https://raw.githubusercontent.com/meesrutten/fe3-assessment-2/master/chart.png"></a></td>
-    <td width="25%"><a href="https://github.com/vriesm060"><strong>@vriesm060</strong></a><br><a href="https://vriesm060.github.io/fe3-assessment-3/"><img src="https://raw.githubusercontent.com/vriesm060/fe3-assessment-3/master/preview.png"></a></td>
+    <td width="25%"><a href="https://github.com/jessedijkman1"><strong>@jessedijkman1</strong></a><br><a href="https://github.com/jessedijkman1/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-jesse.png"></a></td>
+    <td width="25%"><a href="https://github.com/rbntimes"><strong>@rbntimes</strong></a><br><a href="https://github.com/rbntimes/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-robin.png"></a></td>
+    <td width="25%"><a href="https://github.com/timruiterkamp"><strong>@timruiterkamp</strong></a><br><a href="https://github.com/timruiterkamp/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-tim.png"></a></td>
+    <td width="25%"><a href="https://github.com/maanlamp"><strong>@maanlamp</strong></a><br><a href="https://github.com/maanlamp/frontend-applications"><img src="https://raw.githubusercontent.com/cmda-tt/course-18-19/master/image/frontend-applications-wouter.png"></a></td>
   </tr>
 </table>
 
