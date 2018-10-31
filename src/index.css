@@ -166,16 +166,14 @@ blockquote + figcaption {
 }
 
 @media (min-width: 30em) {
-  .partners,
-  .speakers {
+  :matches(.examples, .partners, .speakers) {
     display: flex;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(14em, 1fr));
   }
 }
 
-.partners,
-.speakers {
+:matches(.examples, .partners, .speakers) {
   list-style: none;
   align-items: center;
   margin: 0 -1em;
@@ -183,25 +181,20 @@ blockquote + figcaption {
   flex-wrap: wrap;
 }
 
-.partners li,
-.speakers li {
+:matches(.examples, .partners, .speakers) li {
   min-width: 5em;
   flex: 1;
   margin: 1em;
 }
 
-.speakers a,
-.partners a {
+:matches(.examples, .partners, .speakers) a {
   display: block;
   margin: auto;
   filter: grayscale(100%);
   transition: 300ms filter;
 }
 
-.speakers a:hover,
-.speakers a:focus,
-.partners a:hover,
-.partners a:focus {
+:matches(.examples, .partners, .speakers) a:matches(:hover, :focus) {
   filter: grayscale(0%);
 }
 
