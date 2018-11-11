@@ -43,7 +43,7 @@ This assessment focusses on all [goals][g] and [subgoals][s].
       <th></th>
       <th><strong>1-2</strong></th>
       <th><strong>3-4</strong></th>
-      <th><§strong>5-6</strong></th>
+      <th><strong>5-6</strong></th>
       <th><strong>7-8</strong></th>
       <th><strong>9-10</strong></th>
     </tr>
