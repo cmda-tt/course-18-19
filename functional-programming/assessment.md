@@ -57,7 +57,7 @@ and [subgoal 9][s9] (**use scales**).
       <th align="center" scope="row"><strong>Application</strong> of subject matter</th>
       <td align="center">Git, npm, <strong>and d3</strong> are used; the project runs without errors; data is loaded with d3; there is a representation of data</td>
       <td align="center"><strong>Data is rendered with d3</strong>; interpreting the representation is easier that interpreting the data itself</td>
-      <td align="center"><strong>d3 is used to clean data and make a dynamic representation;data is functionally transformed</strong></td>
+      <td align="center"><strong>d3 is used to clean data and make a dynamic representation; data is functionally transformed</strong></td>
       <td align="center">Representation and <strong>use of d3</strong> go beyond an example: there are demonstrable additions <strong>like a well-chosen scale</strong></td>
       <td align="center">😱<br>The way the student applies subject matter  is more advanced than what they were taught in class; let’s switch places</td>
     </tr>
