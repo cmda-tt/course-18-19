@@ -43,7 +43,7 @@ You additionally apply learning attained in frontend apps.
 | 05-11-18 | 09:30 - 11:00 | [Rejo][], [BOF][slides-rejo]        |
 | 05-11-18 | 11:30 - 12:30 | [d3][slides-d3]                     |
 
-[banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-functional-programming.svg
+[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-functional-programming.svg
 
 [inspiration-cover]: ../image/buildings.jpg
 

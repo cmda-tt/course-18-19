@@ -252,7 +252,7 @@ Albeit technical, the track tests your creativity.
 <p align="center">
 <img
 width="600"
-src="https://cdn.rawgit.com/cmda-tt/course-18-19/650d4d3/image/semester.svg"
+src="https://cdn.jsdelivr.net/gh/cmda-tt/course-18-19/image/semester.svg"
 alt="">
 </p>
 
@@ -302,7 +302,7 @@ docs and images are [CC-BY-4.0][].
 
 [author]: http://wooorm.com
 
-[banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner.svg
+[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@d3abd8b1/banner.svg
 
 [synopsis]: #synopsis
 

@@ -89,7 +89,7 @@ This assessment focusses on all [goals][g] and [subgoals][s].
 
 <!--lint enable no-html maximum-line-length-->
 
-[banner]: https://cdn.rawgit.com/cmda-tt/logo/d3abd8b1/banner-assessment-3.svg
+[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@d3abd8b1/banner-assessment-3.svg
 
 [fd]: ./readme.md
 

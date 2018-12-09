@@ -45,7 +45,7 @@ refactoring code.
 | 19-11-18 | 09:30 - 11:30 | Speaker: [Justus][] on Clean Code       |
 | 21-11-18 | 09:30 - 11:30 | Speaker: [Nick][] on Noord/Zuidlijn     |
 
-[banner]: https://cdn.rawgit.com/cmda-tt/logo/6b810afa/banner-frontend-data.svg
+[banner]: https://cdn.jsdelivr.net/gh/cmda-tt/logo@6b810afa/banner-frontend-data.svg
 
 [inspiration-cover]: ../image/streets.jpg
 
