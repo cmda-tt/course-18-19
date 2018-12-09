@@ -13,7 +13,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "remark-cli": "^5.0.0",
+    "remark-cli": "^6.0.0",
     "remark-lint-no-dead-urls": "^0.4.0",
     "remark-preset-wooorm": "^4.0.0"
   },
